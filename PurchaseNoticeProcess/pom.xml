@@ -71,7 +71,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk-opensdk</artifactId>
-			<version>1.11.163</version>
+			<version>1.12.625</version>
 		</dependency>
 		<dependency>
 			<groupId>api-integracionorbikachile</groupId>
